@@ -17,10 +17,12 @@ The project encompasses a complete front-to-back digital physical design flow ta
 ## Key Results & Metrics
 
 The design was fully verified functionally and optimized through the physical layout phase.
-<br>
+
+
 Directed Testbench Result for bit exact and approximate mode with random inputs:
 ![Error Result](assets/directed_tb_result.png)
-<br>
+
+
 Waveform results for exact mode:
 ![Exact Result](assets/exact_mode_result.png)
 Waveform results for approximate mode:
