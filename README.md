@@ -1,6 +1,6 @@
 # Design and Analysis of an Accuracy Configurable Fast Approximation Recursive Multiplier (FARM)
 
-**Status:** RTL Code and Physical Design files are currently withheld pending academic publication. This repository serves to showcase the architecture, physical design methodology, and final ASIC synthesis results.
+**Status:** RTL Code and Physical Design files are currently withheld due to academic publication purpose.
 
 ## 📌 Project Overview
 [cite_start]Error-resilient applications in domains like machine learning and signal processing require approximate arithmetic circuits optimized for speed, power, and area[cite: 28]. [cite_start]This project introduces a 32-bit Fast Accurate Recursive Multiplier (FARM) integrated with a Fast Accuracy Reconfigurable Adder (FARA)[cite: 29]. 
