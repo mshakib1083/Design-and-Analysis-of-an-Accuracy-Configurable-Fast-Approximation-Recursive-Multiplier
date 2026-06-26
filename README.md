@@ -26,7 +26,11 @@ Directed Testbench Result for bit exact and approximate mode with random inputs:
 Waveform results for exact mode:
 ![Exact Result](assets/exact_mode_result.png)
 Waveform results for approximate mode:
-![Apx Result](assets/approximate_mode_result.png)
+![Apx Result](assets/approximate_mode_result.png)  
+
+
+This is the sythesized circuit from Cadence Genus:
+![Synthesized Result](assets/synthesized.png)
 
 ### Performance & Accuracy
 * **Speedup:** Delivered a speedup of over 30% (Data arrival time reduced from 9851.6 ps to 6904.1 ps) against the exact mode when configured for maximum approximation.
