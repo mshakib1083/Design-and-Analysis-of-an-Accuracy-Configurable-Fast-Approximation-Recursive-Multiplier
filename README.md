@@ -32,7 +32,22 @@ Waveform results for approximate mode:
 This is the sythesized circuit from Cadence Genus:  
 
 
-![Synthesized Result](assets/synthesized.png)
+![Synthesized Result](assets/synthesized.png)  
+
+
+Area Report:  
+![Area Report](assets/Report_Datapath_Area.png)  
+
+Power Report:  
+![Power Report](assets/report_power.png)  
+
+Timing Report for Exact Multilpier report:  
+![Timing Report1](assets/exact_mode_timing_report.png)  
+
+Timing Report for Approximate Multilpier report:  
+![Timing Report2](assets/apx_mode_timing_report.png)  
+
+
 
 ### Performance & Accuracy
 * **Speedup:** Delivered a speedup of over 30% (Data arrival time reduced from 9851.6 ps to 6904.1 ps) against the exact mode when configured for maximum approximation.
