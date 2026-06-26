@@ -17,6 +17,8 @@ The project encompasses a complete front-to-back digital physical design flow ta
 ## Key Results & Metrics
 
 The design was fully verified functionally and optimized through the physical layout phase.
+Directed Testbench Result for bit exact and approximate mode with random inputs:
+![Error Result](assets/directed_tb_result.png)
 
 ### Performance & Accuracy
 * **Speedup:** Delivered a speedup of over 30% (Data arrival time reduced from 9851.6 ps to 6904.1 ps) against the exact mode when configured for maximum approximation.
@@ -29,7 +31,7 @@ The design was fully verified functionally and optimized through the physical la
 ### Physical Layout & Floorplanning
 * **Core Area:** 10993.76 µm².
 * **Core Utilization:** 79.97% (Optimized with a core isolation value of 0.8).
-* **Die Dimensions:** Height = 110.2 µm | [cite_start]Width = 115.2 µm.
+* **Die Dimensions:** Height = 110.2 µm | Width = 115.2 µm.
 * **DRC & CTS:** The final routed layout passed all Design Rule Checks (0 errors) and maintained a positive setup slack (0.002 ns) at a targeted 500 MHz frequency.
 
 ## Layout Highlights
