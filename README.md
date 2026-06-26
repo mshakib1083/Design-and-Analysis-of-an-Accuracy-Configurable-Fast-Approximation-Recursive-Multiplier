@@ -29,7 +29,9 @@ Waveform results for approximate mode:
 ![Apx Result](assets/approximate_mode_result.png)  
 
 
-This is the sythesized circuit from Cadence Genus:
+This is the sythesized circuit from Cadence Genus:  
+
+
 ![Synthesized Result](assets/synthesized.png)
 
 ### Performance & Accuracy
