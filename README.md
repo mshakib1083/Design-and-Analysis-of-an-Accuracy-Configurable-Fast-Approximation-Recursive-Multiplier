@@ -17,8 +17,14 @@ The project encompasses a complete front-to-back digital physical design flow ta
 ## Key Results & Metrics
 
 The design was fully verified functionally and optimized through the physical layout phase.
+<br>
 Directed Testbench Result for bit exact and approximate mode with random inputs:
 ![Error Result](assets/directed_tb_result.png)
+<br>
+Waveform results for exact mode:
+![Exact Result](assets/exact_mode_result.png)
+Waveform results for approximate mode:
+![Apx Result](assets/approximate_mode_result.png)
 
 ### Performance & Accuracy
 * **Speedup:** Delivered a speedup of over 30% (Data arrival time reduced from 9851.6 ps to 6904.1 ps) against the exact mode when configured for maximum approximation.
