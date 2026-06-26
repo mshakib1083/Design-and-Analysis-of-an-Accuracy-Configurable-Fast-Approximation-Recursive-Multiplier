@@ -73,8 +73,3 @@ This is the DRC result with zero error:
 * **Core Utilization:** 79.97% (Optimized with a core isolation value of 0.8).
 * **Die Dimensions:** Height = 110.2 µm | Width = 115.2 µm.
 * **DRC & CTS:** The final routed layout passed all Design Rule Checks (0 errors) and maintained a positive setup slack (0.002 ns) at a targeted 500 MHz frequency.
-
-## Layout Highlights
-*(Add your final routed layout images and floorplan screenshots here from the `physical_design` folder)*
-- `![Final Routed Layout](physical_design/final_routed_layout.png)`
-- `![Approximate Waveforms](docs/simulation/approximate_mode_waveforms.png)`
