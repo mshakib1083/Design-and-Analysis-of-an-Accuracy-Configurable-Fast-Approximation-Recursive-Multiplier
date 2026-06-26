@@ -47,7 +47,18 @@ Timing Report for Exact Multilpier report:
 Timing Report for Approximate Multilpier report:  
 ![Timing Report2](assets/apx_mode_timing_report.png)  
 
+Here is the comparison between the two mode:  
+![Result Table](assets/result_table.png)  
 
+
+Using core utilization of 79.97%, this is the PnR Routing:  
+![PnR](assets/PnR_routing.PNG)  
+
+Got slack time of 0.002 ns from report_timing:  
+![Slack](assets/slack_time.png)  
+
+This is the DRC result with zero error:  
+![DRC](assets/DRC_result.png)
 
 ### Performance & Accuracy
 * **Speedup:** Delivered a speedup of over 30% (Data arrival time reduced from 9851.6 ps to 6904.1 ps) against the exact mode when configured for maximum approximation.
